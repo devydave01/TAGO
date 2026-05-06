@@ -20,10 +20,10 @@ const HeroSection = () => {
         
         {/* text */}
         <div className="lg:col-start-1 lg:col-span-3 text-left max-w-[1777px] h-fit mb-24 lg:mb-48">
-          <h1 className="text-4xl md:text-5xl lg:text-[54px] font-bold leading-[1.1] text-primary tracking-tight mb-10 lg:mb-10">
-            Designing Structured<br />
-            Software Architecture for<br />
-            Sustainable Business Growth
+          <h1 className="text-3xl md:text-5xl lg:text-[54px] font-bold leading-[1.2] lg:leading-[1.1] text-primary tracking-tight mb-10 lg:mb-10">
+            Designing Structured <br className="block md:hidden" />
+            Software Architecture for <br className="block md:hidden" />
+            Sustainable Growth
           </h1>
           <p className="md:text-xl lg:text-2xl text-slate-700 leading-relaxed mb-12 lg:mb-14 font-medium max-w-xl">
             We design and engineer scalable platforms that evolve with your business from
