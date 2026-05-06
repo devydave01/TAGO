@@ -42,9 +42,9 @@ const TestimonialsSection = () => {
           </p>
         </div>
 
-        {/* Testimonials Slider Area with Arrows on top of cards */}
+      
         <div className="relative">
-          {/* Slider Buttons - Now sitting on top of the cards */}
+          
           <button className="absolute -left-8 top-1/2 -translate-y-1/2 z-40 w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center shadow-lg hover:bg-blue-700 transition-all">
             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7" />
